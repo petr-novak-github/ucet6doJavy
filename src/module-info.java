@@ -1,0 +1,2 @@
+module ucet6doJavy {
+}
